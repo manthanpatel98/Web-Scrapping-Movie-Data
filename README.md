@@ -1,5 +1,5 @@
 # Web-Scrapping-Movie-Data
-##### A Project For Extracting 60,000+ Movies/TV shows Data.
+##### A Project For Extracting 60,000+ Movies/TV Shows Data.
 
 
 ---
